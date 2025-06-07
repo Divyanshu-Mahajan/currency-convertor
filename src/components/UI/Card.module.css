@@ -1,0 +1,7 @@
+.card {
+    background: rgba(248, 241, 241, 0.85); /* 85% white overlay */
+    backdrop-filter: blur(8px); /* Frosted glass effect */
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  }
